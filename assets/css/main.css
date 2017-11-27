@@ -1,0 +1,108 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+
+.heading{
+	background-color: #f78e69;
+	text-align: right;
+	width: 100%;
+	padding: 2em;
+	color: #FFF;
+
+}
+.col-pandalove{
+  padding: 0px;
+}
+.picture-pandalove{
+  width: 100%;
+
+  	/*background-image: url(../images/uno.jpg);
+    background-size: cover;
+    height: 40em;}*
+  /* Nos aseguramos que la imagen de fondo este centrada vertical y
+  horizontalmente en todo momento*/
+  background-position: center center;
+   /*La imagen de fondo no se repite*/ 
+  background-repeat: no-repeat;
+ /*La imagen de fondo está fija en el viewport, de modo que no se mueva cuando
+  la altura del contenido supere la altura de la imagen.*/ 
+	background-size: cover;
+  /*Fijamos un color de fondo para que se muestre mientras se está
+  cargando la imagen de fondo o si hay problemas para cargarla¨*/  
+}	
+.about-panda{
+	width: 100%;
+	background-color: #abe188;
+	border-top: 1em solid #f78e69;
+	border-bottom: 1em solid #f78e69;
+}
+.paragrahp-panda{
+	background-color: #f78e69;
+    width: 31%;
+    margin-left: 36%;
+    padding: 1em;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.picture-two-panda{
+  width: 100%;
+  padding: 0px;
+  /*background-image: url(../images/uno.jpg);
+  background-size: cover;
+    height: 40em;}*/
+  /* Nos aseguramos que la imagen de fondo este centrada vertical y
+  horizontalmente en todo momento*/
+  background-position: center center;
+  /*La imagen de fondo no se repite*/ 
+  background-repeat: no-repeat;
+   /*La imagen de fondo está fija en el viewport, de modo que no se mueva cuando
+     la altura del contenido supere la altura de la imagen.*/ 
+  background-size: cover;
+   /*Fijamos un color de fondo para que se muestre mientras se está
+    cargando la imagen de fondo o si hay problemas para cargarla¨*/  
+}
+.panda-pictures{
+	background-color: #abe188;
+	text-align: center;
+	border-top: 1em solid #f78e69;
+	border-bottom: 1em solid #f78e69;
+}
+.picture{
+	margin-left: 15em;
+    border: 10px solid #fff;
+}
+.title-pictures{
+	font-size: 3em;
+	color: #fff;
+	/*margin-bottom: 0.5em;
+  margin-top: 0.5em;*/
+}
+.picture-pandasleep{
+width: 100%;
+  padding: 0px;
+
+    /*background-image: url(../images/uno.jpg);
+    background-size: cover;
+    height: 40em;}*/
+  /* Nos aseguramos que la imagen de fondo este centrada vertical y
+  horizontalmente en todo momento*/
+  background-position: center center;
+  /*La imagen de fondo no se repite*/ 
+  background-repeat: no-repeat;
+  /*La imagen de fondo está fija en el viewport, de modo que no se mueva cuando
+  la altura del contenido supere la altura de la imagen.*/ 
+  background-size: cover;
+  /*Fijamos un color de fondo para que se muestre mientras se está
+cargando la imagen de fondo o si hay problemas para cargarla¨*/  
+}
+.footnote-panda{
+	background-color: #f78e69;
+	text-align: right;
+  color: #FFF;  
+}
+.paragrahp-footnote{
+	color:#fff;
+	font-size: 1em;
+	
