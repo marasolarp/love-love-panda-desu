@@ -2,13 +2,18 @@
 	[class*="col-"]{                       
 		width: 100%;
 	}
-	body{
-		background-color: black;
-		color:white;
+	.picture{
+		border:12px solid #abe188;
 	}
-	.img{
-		border:6px solid white;
-	
-	}
+  .about-panda{
+    background-color: #f78e69;
+  }
+  .paragrahp-panda{
+    background-color: #abe188; 
+    color:#000;
+  }
+	.panda-pictures{
+    background-color: #f78e69;
+  }
 
 }
